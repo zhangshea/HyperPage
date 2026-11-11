@@ -1,0 +1,5 @@
+# Files that Python writes next to the sources.
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
