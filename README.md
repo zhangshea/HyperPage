@@ -97,3 +97,16 @@ reported result.
 
 The code in this repository is released under the MIT licence (`LICENSE`). Third-party data, models and code keep
 their own licences; `prepare/README.md` and `engine/README.md` list them.
+
+## Reference
+```
+@misc{zhang2026hyperpagelearnedpagelayouts,
+      title={HyperPage: Learned Page Layouts for Disk-Resident Graph Vector Indexes}, 
+      author={Xinyu Zhang and Jingze Li and Baihua Zheng and Weiwei Sun},
+      year={2026},
+      eprint={2611.16149},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2611.16149}, 
+}
+```
